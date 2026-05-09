@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Crafter",
+  "description": "AI-powered tool to transform documents into structured meeting agendas with summaries, action items, and time tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
